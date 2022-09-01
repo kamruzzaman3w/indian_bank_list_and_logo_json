@@ -1,0 +1,233 @@
+[
+    {
+        "_id":"1",
+        "bank_type":"public",
+        "name":"Bank of Baroda",
+        "logo":"https://i.ibb.co/vwtZP6L/Bank-Of-Baroda-Logo.png",
+        "website":"https://www.bankofbaroda.in/"
+    },
+    {
+        "_id":"2",
+        "bank_type":"public",
+        "name":"State Bank of India",
+        "logo":"https://i.ibb.co/N9RtTSR/State-Bank-of-India.png",
+        "website":"https://bank.sbi/"
+    },
+    {
+        "_id":"3",
+        "bank_type":"public",
+        "name":"UCO Bank",
+        "logo":"https://i.ibb.co/R2WjWFD/UCO-Bank.png",
+        "website":"https://www.ucobank.com/English/home.aspx"
+    },
+    {
+        "_id":"4",
+        "bank_type":"public",
+        "name":"Union Bank of India",
+        "logo":"https://i.ibb.co/qDt5gNL/Union-Bank-Logo.png",
+        "website":"https://www.unionbankofindia.co.in/english/home.aspx"
+    },
+    {
+        "_id":"5",
+        "bank_type":"public",
+        "name":"Punjab and Sind Bank",
+        "logo":"https://i.ibb.co/mb0rd3r/PSB-logo-23-Nov.png",
+        "website":""
+    },
+    {
+        "_id":"6",
+        "bank_type":"public",
+        "name":"Punjab National Bank",
+        "logo":"https://i.ibb.co/2020L5n/Punjab-National-Bank-new-logo.png",
+        "website":"http://punjabandsindbank.co.in/"
+    },
+    {
+        "_id":"7",
+        "bank_type":"public",
+        "name":"Indian Overseas Bank",
+        "logo":"https://i.ibb.co/xL4tN3y/Indian-Overseas-Bank-Logo.png",
+        "website":"https://www.iob.in/"
+    },
+    {
+        "_id":"8",
+        "bank_type":"public",
+        "name":"Indian Bank",
+        "logo":"missing",
+        "website":"https://www.indianbank.in/#!"
+    },
+    {
+        "_id":"9",
+        "bank_type":"public",
+        "name":"Central Bank of India",
+        "logo":"https://i.ibb.co/Dk7QhS8/Central-Bank-of-India.png",
+        "website":"https://www.centralbankofindia.co.in/en"
+    },
+    {
+        "_id":"10",
+        "bank_type":"public",
+        "name":"Canara Bank",
+        "logo":"https://i.ibb.co/DRzWcPV/Canara-bank-logo.png",
+        "website":"https://canarabank.com/"
+    },
+    {
+        "_id":"11",
+        "bank_type":"public",
+        "name":"Bank of Maharashtra",
+        "logo":"https://i.ibb.co/9qY9nQH/Bank-of-Maharashtra.png",
+        "website":"https://bankofmaharashtra.in/"
+    },
+    {
+        "_id":"12",
+        "bank_type":"public",
+        "name":"Bank of India",
+        "logo":"https://i.ibb.co/HKxNpjK/Bank-of-India-logo.png",
+        "website":"https://www.bankofindia.co.in/"
+    },
+    {
+        "_id":"13",
+        "bank_type":"private",
+        "name":"Axis Bank",
+        "logo":"https://i.ibb.co/JFhV6p7/AXISBank-Logo.png",
+        "website":"https://www.axisbank.com/"
+    },
+    {
+        "_id":"14",
+        "bank_type":"private",
+        "name":"Bandhan Bank",
+        "logo":"https://i.ibb.co/qBFd9FK/Bandhan-Bank-Svg-Logo.png",
+        "website":"https://www.bandhanbank.com/"
+    },
+    {
+        "_id":"15",
+        "bank_type":"private",
+        "name":"CSB Bank",
+        "logo":"https://i.ibb.co/vjw2RPy/CSB-Bank-New-Logo-02.png",
+        "website":"https://www.csb.co.in/"
+    },
+    {
+        "_id":"16",
+        "bank_type":"private",
+        "name":"City Union Bank",
+        "logo":"https://i.ibb.co/mTdsH8s/City-Union-Bank.png",
+        "website":"https://www.cityunionbank.com/"
+    },
+    {
+        "_id":"17",
+        "bank_type":"private",
+        "name":"DCB Bank",
+        "logo":"https://i.ibb.co/9bk7n5m/Development-Credit-Bank.png",
+        "website":"https://www.dcbbank.com/"
+    },
+    {
+        "_id":"18",
+        "bank_type":"private",
+        "name":"Dhanlaxmi Bank",
+        "logo":"https://i.ibb.co/QDJhWmC/Dhanlaxmi-Bank.png",
+        "website":"https://www.dhanbank.com/"
+    },
+    {
+        "_id":"19",
+        "bank_type":"private",
+        "name":"Federal Bank",
+        "logo":"https://i.ibb.co/QD165p2/Federal-Bank-Logo-SVG.png",
+        "website":"https://www.federalbank.co.in/"
+    },
+    {
+        "_id":"20",
+        "bank_type":"private",
+        "name":"HDFC Bank",
+        "logo":"https://i.ibb.co/5FdGbb3/HDFC-Bank-Logo.png",
+        "website":"https://www.hdfcbank.com/"
+    },
+    {
+        "_id":"21",
+        "bank_type":"private",
+        "name":"ICICI Bank",
+        "logo":"https://i.ibb.co/K291GyB/ICICI-Bank-Logo.png",
+        "website":"https://www.icicibank.com/"
+    },
+    {
+        "_id":"22",
+        "bank_type":"private",
+        "name":"IDBI Bank",
+        "logo":"https://i.ibb.co/XZxdR8K/IDBI-Logo.png",
+        "website":"https://www.idbibank.in/"
+    },
+    {
+        "_id":"23",
+        "bank_type":"private",
+        "name":"IDFC First Bank",
+        "logo":"https://i.ibb.co/FgVztZ2/IDFC-First-Bank-logo.png",
+        "website":"https://www.idfcfirstbank.com/"
+    },
+    {
+        "_id":"24",
+        "bank_type":"private",
+        "name":"IndusInd Bank",
+        "logo":"https://i.ibb.co/zX6rgSz/Indus-Ind-Bank-SVG-Logo.png",
+        "website":"https://www.indusind.com/in/en/personal.html"
+    },
+    {
+        "_id":"25",
+        "bank_type":"private",
+        "name":"Jammu & Kashmir Bank",
+        "logo":"https://i.ibb.co/v1TW2rR/Jammu-Kashmir-Bank-Logo.png",
+        "website":"https://www.jkbank.com/"
+    },
+    {
+        "_id":"26",
+        "bank_type":"private",
+        "name":"Karnataka Bank",
+        "logo":"https://i.ibb.co/ng8LvcR/Karnataka-Bank-svg-Logo.png",
+        "website":"https://karnatakabank.com/"
+    },
+    {
+        "_id":"27",
+        "bank_type":"private",
+        "name":"Karur Vysya Bank",
+        "logo":"https://i.ibb.co/VHtL2kT/Karur-Vysya-Bank.png",
+        "website":"https://www.kvb.co.in/"
+    },
+    {
+        "_id":"28",
+        "bank_type":"private",
+        "name":"Kotak Mahindra Bank",
+        "logo":"https://i.ibb.co/DrMjh2z/Kotak-Mahindra-Group-logo.png",
+        "website":"https://www.kotak.com/en/home.html"
+    },
+    {
+        "_id":"29",
+        "bank_type":"private",
+        "name":"Nainital Bank",
+        "logo":"https://i.ibb.co/CVGPYB7/Nainitalbank-Logo.png",
+        "website":"https://www.nainitalbank.co.in/english/home.aspx"
+    },
+    {
+        "_id":"30",
+        "bank_type":"private",
+        "name":"RBL Bank",
+        "logo":"https://i.ibb.co/SxHN09p/RBL-Bank-SVG-Logo.png",
+        "website":"https://www.rblbank.com/"
+    },
+    {
+        "_id":"31",
+        "bank_type":"private",
+        "name":"South Indian Bank",
+        "logo":"https://i.ibb.co/GMxYBp1/South-Indian-Bank-Logo.png",
+        "website":"https://www.southindianbank.com/"
+    },
+    {
+        "_id":"32",
+        "bank_type":"private",
+        "name":"Tamilnad Mercantile Bank",
+        "logo":"https://i.ibb.co/jV7Pdcf/TMB-SVG-Logo.png",
+        "website":"https://www.tmb.in/"
+    },
+    {
+        "_id":"33",
+        "bank_type":"private",
+        "name":"Yes Bank",
+        "logo":"https://i.ibb.co/TLwNJD7/Yes-Bank-logo.png",
+        "website":"https://www.yesbank.in/"
+    }
+]
